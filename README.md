@@ -85,8 +85,9 @@ First Outline:<img width="1552" height="886" alt="image" src="https://github.com
 Available products:<img width="1488" height="911" alt="Screenshot 2026-09-12 040209" src="https://github.com/user-attachments/assets/10170610-33f6-40c8-bb97-6c7d0d4bda44" />
 Purchased items:<img width="1542" height="956" alt="image" src="https://github.com/user-attachments/assets/8cdf2099-427c-4782-a66a-de32a59f02c7" />
 ## Team Contributions
-M ASWATHY
-GOURI SREEKUMAR J
+M ASWATHY:
+
+GOURI SREEKUMAR J:
 
 
 
